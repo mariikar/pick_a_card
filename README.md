@@ -1,0 +1,2 @@
+### README
+Simple game 
